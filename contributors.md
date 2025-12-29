@@ -27,5 +27,6 @@
 | Himansh Arora | Humanshere | IIITA | IIB2024025 | 1 |
 |Ashutosh kesarwani | Lucifer-0612 | HIT HALDIA | 10300124056 | 1 |
 | Apoorv Mittal | Apoorv012 | JIIT Noida | 23103331 | 1 |
+| Amogh S.      | MogaS811. | IIIT A.    | IIT2025290 | 1 |
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
