@@ -19,7 +19,10 @@ class _BottomNavSujalState extends State<BottomNavSujal> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: _screens[_currentIndex],
+      body: IndexedStack(
+        index: _currentIndex,
+        children: _screens,
+      ),
 
       bottomNavigationBar: Container(
         decoration: BoxDecoration(
@@ -60,7 +63,6 @@ class _BottomNavSujalState extends State<BottomNavSujal> {
     );
   }
 }
-
 
 class _PlaceholderScreen extends StatelessWidget {
   final String title;
