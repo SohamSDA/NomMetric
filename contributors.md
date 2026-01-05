@@ -38,5 +38,6 @@
 | YOGESH M | yogesh4216 | CIT | 24CS3026 | 1 |
 | Manvi Mishra| manvimishra15 | BV | BTBTC24098 |1|
 | PRASHANT S BISHT | prashant2007-wq | Rishihood University | 2501010346 |1|
+| Abhigyan Tiwari | Abh-igyan | NIT Silchar | 2412124 | 1 |
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
