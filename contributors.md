@@ -1,6 +1,7 @@
 
 | Name | Github-ID | College name | Roll no. | Issue no. |
 |:-----|--------:|---------|-------:|------:|
+| Vibhu Tomer | vibhutomer | NITA | 20243317 | 1 |
 | Jatin | thenix09 | IIITA | IIT2025101 | 1 |
 | Anurag| Anurag-Bansode| IIITT | 242101|1|  
 | Harshvardhan | HARSH4885-svg | IIITA | IIT2025177 | 1 |
